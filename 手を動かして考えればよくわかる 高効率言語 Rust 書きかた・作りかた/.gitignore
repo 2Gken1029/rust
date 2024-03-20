@@ -1,0 +1,9 @@
+# 実行ファイルを除外する
+*
+!*/
+!*.*
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
